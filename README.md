@@ -1,7 +1,5 @@
 # Hugo Rossi
 
----
-
 ## 💻 Sobre Mim
 Olá! Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) em busca da minha primeira experiência profissional como Desenvolvedor Front-end (Estágio ou Jovem Aprendiz). Meu objetivo é aplicar o Raciocínio Lógico e os fundamentos de engenharia de software para construir interfaces otimizadas e de alta qualidade.
 
